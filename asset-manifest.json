@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shruthi-0512.github.io/Login-Form/static/css/main.4300162d.css",
+    "main.js": "/Shruthi-0512.github.io/Login-Form/static/js/main.901681f8.js",
+    "static/js/453.c8a15193.chunk.js": "/Shruthi-0512.github.io/Login-Form/static/js/453.c8a15193.chunk.js",
+    "index.html": "/Shruthi-0512.github.io/Login-Form/index.html",
+    "main.4300162d.css.map": "/Shruthi-0512.github.io/Login-Form/static/css/main.4300162d.css.map",
+    "main.901681f8.js.map": "/Shruthi-0512.github.io/Login-Form/static/js/main.901681f8.js.map",
+    "453.c8a15193.chunk.js.map": "/Shruthi-0512.github.io/Login-Form/static/js/453.c8a15193.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4300162d.css",
+    "static/js/main.901681f8.js"
+  ]
+}
